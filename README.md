@@ -33,7 +33,7 @@ _Level 04_
 * After I gave 777 permission to the README2.md file with `chmod`.
 * Finally type the `cat` command to read the "README2.md" file and the solution was there.
 
-  _Level 05_
+_Level 05_
 * First of all I entered the /home/level/05_privacy directory with the `cd` command.
 * Then I did `la` to display all the folders.
 * Finally type the `cat` command to read the "README.md" file and the solution was there.
